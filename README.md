@@ -38,6 +38,7 @@ Bank-Customer-Churn-Prediction/
 ├── .gitignore                         # Excludes cache and temporary files
 ├── Bank Customer Churn Prediction.csv # Raw source dataset
 └── README.md                          # Project documentation
+```
 
 ## Tech Stack & Tools
 
@@ -47,7 +48,7 @@ Bank-Customer-Churn-Prediction/
 | **Database & SQL** | MySQL Server 8.0, MySQL Workbench |
 | **BI & Reporting** | Microsoft Excel *(Pivot Tables, Calculated Fields, Slicers, Conditional Formatting)* |
 | **Version Control** | Git, GitHub |
-```
+
 ---
 
 ## Key Insights
