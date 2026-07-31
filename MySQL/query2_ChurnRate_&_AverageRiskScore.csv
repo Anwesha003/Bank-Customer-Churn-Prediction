@@ -1,0 +1,5 @@
+products_number,total_customers,actual_churned_customers,actual_churn_rate_pct,avg_predicted_risk_score
+1,1013,270,26.65,27.07
+2,918,77,8.39,8.58
+3,59,50,84.75,82.40
+4,10,10,100.00,95.52

@@ -1,0 +1,17 @@
+# Jupyter Notebook Cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Temporary Excel Files (Auto-save temporary files)
+~$*.xlsx
+~$*.xls
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# System / OS Files
+.DS_Store
+Thumbs.db

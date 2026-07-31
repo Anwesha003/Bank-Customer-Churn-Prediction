@@ -1,0 +1,5 @@
+age_bracket,customer_count,avg_risk_score,actual_churn_rate_pct
+"46 - 60",330,49.36,51.82
+"Over 60",89,25.93,24.72
+"30 - 45",1250,15.87,15.52
+"Under 30",331,8.09,6.04

@@ -1,0 +1,5 @@
+classification_type,customer_count,percentage_of_total
+"True Negative (Correct Retained)",1541,77.05
+"False Negative (Missed Churn)",213,10.65
+"True Positive (Correct Churn)",194,9.70
+"False Positive (False Alarm)",52,2.60
