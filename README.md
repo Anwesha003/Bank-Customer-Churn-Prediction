@@ -16,7 +16,7 @@ Customer churn is one of the most critical challenges in retail banking, as acqu
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 Bank-Customer-Churn-Prediction/
@@ -47,14 +47,14 @@ Bank-Customer-Churn-Prediction/
 | **Database & SQL** | MySQL Server 8.0, MySQL Workbench |
 | **BI & Reporting** | Microsoft Excel *(Pivot Tables, Calculated Fields, Slicers, Conditional Formatting)* |
 | **Version Control** | Git, GitHub |
-
+```
 ---
 
 ## Key Insights
 
 * **Product Holding Friction:** Customers holding **3 or 4 bank products** exhibit significantly higher churn rates compared to those holding 1 or 2 products, indicating potential feature fatigue or misaligned cross-selling strategies.
 * **Engagement Vulnerability:** Inactive members have an average predicted churn risk score **over 1.5x higher** than active members, emphasizing the need for targeted re-engagement campaigns.
-* **High-Value Account Exposure:** High-balance accounts ($\ge \$100,000$) flagged with a predicted risk score above $70\%$ represent the highest potential revenue loss, prioritizing them for VIP retention outreach.
+* **High-Value Account Exposure:** High-balance accounts (> $100,000) flagged with a predicted risk score above $70\%$ represent the highest potential revenue loss, prioritizing them for VIP retention outreach.
 
 ---
 
